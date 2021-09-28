@@ -1,16 +1,17 @@
 # Hack Technology / Project Attempted
 
+Unreal Engine 5
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+I followed a tutorial that teaches how to use Unreal Engine 5!
 
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
 ## Who Did What?
 
-TODO: who worked on what part?
+I did everything!
 
 ## What you learned
 
@@ -18,7 +19,7 @@ TODO: what worked / what didn't work
 
 ## Authors
 
-TODO: list of authors
+Julian Wu
 
 ## Acknowledgments
 
