@@ -24,3 +24,6 @@ Julian Wu
 ## Acknowledgments
 
 TODO: cite any tutorials followed here
+
+1. __UE5 Lag Fixes:__ https://www.youtube.com/watch?v=esrnQBq75qg&ab_channel=BuvesaGameDevelopment
+2. __Game Tutorial:__ https://www.youtube.com/watch?v=ITCWa3oLNAQ&ab_channel=UnrealSensei
