@@ -25,6 +25,8 @@ I did everything!
 4. How to manipulate nodes and create custom event nodes.
 5. How to create, access, and manipulate variables in Blueprint.
 
+It was really great learning UE5! I think it's a little difficult to learn the Blueprint UI in the beginning but after spending a lot of time, it gets a lot easier and can even be a better alternative to traditional code-writing! The tutorial was fairly straightforward and I didn't have too many issues -- would definitely recommend the tutorial for anyone trying to learn UE5. I also think the UE5 interface is slightly better than Unity's because it gives more freedom of movement and allows developers to move around the scene almost effortlessly. The graphics are also INSANE -- the only downpart is that downloading UE5 is over 100gb, and that's not even including their Quixel Bridge, which is a massive online assets library filled with so many models, materials, textures, and more. Ultimately, would definitely recommend learning!
+
 ## Authors
 
 Julian Wu
